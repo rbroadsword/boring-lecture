@@ -1,0 +1,18 @@
+body {
+  background-color: brown;
+}
+
+h2.intro {
+  color: white;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+p.intro {
+  color: chartreuse;
+  font-style: italic;
+}
+
+img.intro {
+  border: solid cornsilk 8px;
+}
